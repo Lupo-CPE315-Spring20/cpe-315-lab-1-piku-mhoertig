@@ -2,7 +2,7 @@
 
 ## Things to include in your README
 
-* Your name. Indicate if you go by a nickname.
+* Matt Hoertig
 * Status of your lab
   * Complete, partially complete, incomplete
   * If not complete, what does work? What doesn't?
